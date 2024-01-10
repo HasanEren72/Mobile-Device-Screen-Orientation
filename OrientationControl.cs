@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class YonKontrol : MonoBehaviour
+public class OrientationControl: MonoBehaviour
 {
     [SerializeField]
     private ScreenOrientation defaultYon = ScreenOrientation.Portrait;
